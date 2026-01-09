@@ -32,17 +32,12 @@ Tailwind CSS
 JavaScript (ES6+)
 
 📦 Installation & Setup
-# Clone the repo
-git clone https://github.com/your-username/your-repo.git
-
-# Navigate to the project
-cd your-repo
-
-# Install dependencies
+git clone https://github.com/kavyagrwl25/passwordGenerator.git
+cd passwordGenerator
 npm install
-
-# Start the development server
 npm run dev
+
+
 
 📁 Project Structure
 src/
