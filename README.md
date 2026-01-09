@@ -33,8 +33,11 @@ JavaScript (ES6+)
 
 📦 Installation & Setup
 git clone https://github.com/kavyagrwl25/passwordGenerator.git
+
 cd passwordGenerator
+
 npm install
+
 npm run dev
 
 
